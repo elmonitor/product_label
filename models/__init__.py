@@ -1,1 +1,1 @@
-from . import product_label_fields
+from . import product_template
