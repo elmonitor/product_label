@@ -2,7 +2,7 @@
 
 {
     'name': 'Product Label Fields',
-    'version': '12.0.2.0.0',
+    'version': '12.0.1.0.0',
     'development_status': "Mature",
     'category': 'Product',
     'summary': "Product Label Fields",
@@ -13,7 +13,7 @@
         'sale',
         ],
     'data': [
-        'views/product_brand_view.xml',
+        'views/product_label_view.xml',
     ],
     'installable': True,
     'auto_install': False
