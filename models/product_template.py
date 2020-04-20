@@ -7,7 +7,7 @@ class ProductLabelFields(models.Model):
     _inherit = 'product.template'
 
     lote = fields.Char('Lote')
-    fecha_fab = fields.Date('Fecha de fabricación)
+    fecha_fab = fields.Date('Fecha de fabricación')
     fecha_ven = fields.Date('Fecha de vencimiento')
     peso = fields.Float('Peso kg')
     vida_util = fields.Char('Vida útil')
